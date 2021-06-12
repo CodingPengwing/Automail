@@ -2,7 +2,7 @@
 This package is a solution to project 1 of SWEN30006 - Software Modelling and Design,
 the Univerity of Melbourne. Specifications can found in the repo.
 
-This program is a simulation called MailPool, which is software that would, in theory,
+This program runs a simulation called Automail, which is software that would, in theory,
 govern how an automated mail delivery system operates in a residential building. The 
 goal of the system is to calculate costs related to mail delivery as well as keep a 
 log of actions, items delivered and the robots that deliver them.
